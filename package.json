@@ -1,0 +1,7 @@
+{
+  "homepage": "https://kalieblair.com",
+  "type": "module",
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
