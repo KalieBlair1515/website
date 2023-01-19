@@ -12,19 +12,13 @@ body {
 }
 
 h1 {
-  font-size: 5em;
+  font-size: 4em;
 }
 
 .container {
   display: table-cell;
   vertical-align: middle;
   text-align: center;
-}
-
-.dev-icon {
-  font-size: 2em;
-  margin: 0.25em;
-  color: white;
 }
 
 p {
@@ -59,7 +53,7 @@ img {
 }
 
 .links a {
-  font-size: 2em;
+  font-size: 1.5em;
   border: 1px solid #b66c7f;
   border-radius: 0.5em;
   padding: 0.25em;
